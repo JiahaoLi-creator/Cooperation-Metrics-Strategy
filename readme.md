@@ -1,4 +1,6 @@
 #### This repository contains the 4 main scripts of the project
+###### The initial capital is 1 yuan, and the capital curve of the latest results is regularly bought and sold according to the strategy.
+##### ![image](https://github.com/JiahaoLi-creator/Cooperation-Metrics-Strategy/blob/master/strategy_historical_performance.png)
 ##### [1_Stock_Picking_Data_Collation_Parallel：Pre-processing of stock data, including screening for stocks that do not meet conditions, using a parallel approach](https://github.com/JiahaoLi-creator/Cooperation-Metrics-Strategy/blob/master/1_Stock_Picking_Data_Collation_Parallel.py)
 ##### [2_stock_selection：On the basis of preprocessed data, stocks are screened according to the factors provided and returns are calculated for each period, and finally a funding curve is drawn](https://github.com/JiahaoLi-creator/Cooperation-Metrics-Strategy/blob/master/2_stock_selection.py)
 ##### [CalcFactor：Based on the raw data, calculate the metrics needed](https://github.com/JiahaoLi-creator/Cooperation-Metrics-Strategy/blob/master/CalcFactor.py)
